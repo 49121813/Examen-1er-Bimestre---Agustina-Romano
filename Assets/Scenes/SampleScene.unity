@@ -223,8 +223,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 208736b718132c744b82985a3648e364, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tipoServicio: Cardio
-  cantHoras: 5
+  tipoServicio: Recreativo
+  cantHoras: 6
 --- !u!4 &1579036480
 Transform:
   m_ObjectHideFlags: 0

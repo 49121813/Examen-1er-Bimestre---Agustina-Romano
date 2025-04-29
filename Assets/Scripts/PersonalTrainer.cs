@@ -33,12 +33,10 @@ public class PersonalTrainer : MonoBehaviour
         else if (tipoServicio == "Cardio")
         {
             precioTotal = cantHoras * precioCardio;
-
         }
         else if (tipoServicio == "Fuerza")
         {
             precioTotal = cantHoras * precioFuerza;
-
         }
         else if (tipoServicio == "Recreativo")
         {
@@ -48,7 +46,6 @@ public class PersonalTrainer : MonoBehaviour
         if (cantHoras == 6)
         {
             precioDescuento = precioTotal * 0.9f;
-
         }
         else
         {
